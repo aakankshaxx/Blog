@@ -1,0 +1,52 @@
+.register{
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: url(https://wallpaperaccess.com/full/3695752.jpg);
+    background-size: cover;
+    align-items: center;
+}
+
+.registerTitle{
+    font-size: 50px;
+    color: white;
+}
+
+.registerForm{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.registerForm > label{
+    margin: 10px;
+}
+
+.registerInput{
+    padding: 10;
+    background-color: #fff;
+    border: none;
+}
+
+.registerButton{
+    margin-top: 20px;
+    cursor: pointer;
+    background-color: teal;
+    border: none;
+    color: #fff;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.registerLoginButton{
+    position: absolute;
+    top: 60px;
+    right: 20px;
+    background-color: lightcoral;
+    cursor: pointer;
+    border: none;
+    padding: 10px;
+    color: #fff;
+    border-radius: 10px;
+}
