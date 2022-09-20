@@ -15,7 +15,6 @@ https://6329fdbfa738de00a6e86e65--steady-rugelach-58298d.netlify.app/
 
 ![e](https://user-images.githubusercontent.com/104255388/191172437-b3faed18-6fcb-4d19-94eb-e98d2da3f789.jpg)
 
-![f](https://user-images.githubusercontent.com/104255388/191172594-f3ee01dd-a227-4c6a-9497-356673ec4efb.jpg)
 
 
 # Getting Started with Create React App
